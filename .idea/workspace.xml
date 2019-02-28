@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565be3ad-be57-4aaa-8fa7-4c59f19048e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/Comparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/Fish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/FishComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/SortAllData.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sort/Sort.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -168,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="184" />
     <option name="y" value="123" />
     <option name="width" value="1612" />
@@ -332,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
